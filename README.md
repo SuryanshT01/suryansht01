@@ -9,8 +9,7 @@ I am a B.Tech Computer Science student (Class of 2022–2026) with a passion for
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryansht01)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SuryanshT01)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/suryanshtripathi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryanshtripathier01@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SuryanshT01/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SuryanshT01&color=blueviolet&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/SuryanshT01?style=flat-square&color=blue&label=Followers)
@@ -20,42 +19,16 @@ I am a B.Tech Computer Science student (Class of 2022–2026) with a passion for
 
 ---
 
-## 🚀 Quick Intro
-
-```javascript
-const developer = {
-    name: "Suryansh Tripathi",
-    location: "Delhi, India 📍",
-    education: "B.Tech IT @ GGSIPU | GPA: 9.25/10 🎓",
-    role: "Software Developer Intern @ Infosys Springboard",
-    code: ["Java", "Python", "JavaScript", "TypeScript", "Solidity"],
-    technologies: {
-        frontend: ["React.js", "Vite", "HTML/CSS"],
-        backend: ["Spring Boot", "Node.js", "FastAPI", "Express"],
-        ai_ml: ["LangChain", "RAG", "CNN", "Generative AI", "LLM Agents"],
-        blockchain: ["Solidity", "MetaMask", "Smart Contracts"],
-        databases: ["MongoDB", "MySQL", "SQLite", "FAISS"],
-        devOps: ["Docker", "AWS", "Azure", "Git", "Linux"]
-    },
-    currentlyLearning: "Advanced System Design & Distributed Systems",
-    achievements: [
-        "🏆 Adobe India Hackathon 2025 Finalist (Top 50/250K)",
-        "🏆 Smart India Hackathon Finalist (Top 5/50K+)",
-        "🎖️ Top 1% NPTEL DBMS (Elite)",
-        "⭐ Top 5 in IT Department"
-    ]
-};
-```
 
 ## 🎯 What I Do
 
-I'm a passionate software engineer who loves building **scalable full-stack applications** and **AI-powered solutions**. From creating enterprise-grade document search platforms to developing blockchain-based smart contracts, I thrive on turning complex problems into elegant solutions.
+I'm a passionate software engineer who loves building **scalable full-stack applications** and **AI-powered solutions**, I thrive on turning complex problems into elegant solutions.
 
 - 🔭 Currently working on **AI/ML projects** and **full-stack web applications**
 - 🌱 Exploring **LLM agents**, **RAG systems**, and **distributed architecture**
 - 👯 Open to collaborating on **innovative AI projects** and **open-source contributions**
 - 💬 Ask me about **React, Spring Boot, FastAPI, Machine Learning, or System Design**
-- ⚡ Fun fact: I've solved **300+ algorithmic problems** and love optimizing code performance!
+- ⚡ Fun fact: I've solved **400+ algorithmic problems** and love optimizing code performance!
 
 ---
 
@@ -68,7 +41,6 @@ I'm a passionate software engineer who loves building **scalable full-stack appl
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Frontend
@@ -108,17 +80,6 @@ I'm a passionate software engineer who loves building **scalable full-stack appl
 
 ---
 
-## 💼 Experience
-
-### 💻 Software Developer Intern @ Infosys Springboard
-**Oct 2024 - Jan 2025**
-
-- 🚀 Designed and implemented **RESTful APIs** using Spring Boot with 30% faster response times through Hibernate optimizations
-- 🔐 Developed secure authentication dashboards with **session management** and role-based access control
-- 🤝 Collaborated in **Agile sprints** to seamlessly integrate backend services with React frontend modules
-- 📊 Wrote comprehensive **JUnit tests** ensuring 90%+ code coverage and system reliability
-
----
 
 ## 🚀 Featured Projects
 
@@ -210,8 +171,8 @@ I'm a passionate software engineer who loves building **scalable full-stack appl
 | 🥈 **Adobe India Hackathon** | Finalist - Top 50 out of 250,000 students | 2025 |
 | 🥈 **Smart India Hackathon** | Finalist - Top 5 out of 50,000+ teams | 2024 |
 | 🏅 **NPTEL DBMS Certification** | Top 1% - Elite Certification | 2024 |
-| 💻 **Competitive Programming** | 300+ problems solved (LeetCode, GFG, CN) | 2024 |
-| 🎓 **Academic Excellence** | Top 5 in IT Department Batch | 2024 |
+| 💻 **Competitive Programming** | 400+ problems solved (LeetCode, GFG, CN) | 2026 |
+| 🎓 **Academic Excellence** | Top 5 in IT Department Batch | 2026 |
 
 </div>
 
@@ -272,8 +233,8 @@ Maharaja Agrasen Institute of Technology, GGSIPU, Delhi
 ## 🌟 Leadership & Involvement
 
 ### 🎤 Coordinator @ TEDxMAIT
-- 📢 Successfully organized TEDxMAIT event with 500+ attendees
-- 💼 Managed sponsorship acquisition worth ₹3L+
+- 📢 Successfully coordinated TEDxMAIT event with 500+ attendees
+- 💼 Managed sponsorship acquisition
 - 🤝 Coordinated with speakers, volunteers, and vendors
 
 ### 💼 Coordinator @ Career Development Cell
@@ -296,7 +257,6 @@ I'm always excited to work on innovative projects and connect with fellow develo
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryansht01)
 [![Twitter](https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SuryanshT01)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryanshtripathier01@gmail.com)
 
 </div>
 
