@@ -97,7 +97,7 @@ I'm a passionate software engineer who loves building **scalable full-stack appl
 
 ---
 
-### 💰 [Goal Savings Planner](https://github.com/SuryanshT01/goal_savings_planner) [Live](https://goal-savings-planner.vercel.app/)
+### 💰 [Goal Savings Planner](https://github.com/SuryanshT01/goal_savings_planner) [(Live Link)](https://goal-savings-planner.vercel.app/)
 > Smart financial planning app to help users set and achieve savings goals
 
 **Tech Stack:** `TypeScript` `React` `TailwindCSS` `Local Storage`
@@ -123,7 +123,7 @@ I'm a passionate software engineer who loves building **scalable full-stack appl
 
 ---
 
-### 🎬 [MovieFlix - Streaming Platform](https://github.com/SuryanshT01/MovieFlix)
+### 🎬 [MovieFlix - Streaming Platform](https://github.com/SuryanshT01/MovieFlix) [(Live Link)](https://movie-flix-one.vercel.app/)
 > Modern movie discovery and streaming platform with rich UI
 
 **Tech Stack:** `TypeScript` `React` `TMDb API` `CSS3`
